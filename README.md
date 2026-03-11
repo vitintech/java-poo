@@ -34,8 +34,9 @@ O repositório está organizado em pastas que representam os conceitos estudados
 Cada pasta contém:
 
 - Exercícios práticos
-- Implementações de conceitos de POO
+- Implementações de conceitos de POO estudados na Alura
 - Projetos para consolidar o aprendizado
+- POO de forma escrita
 
 ---
 
