@@ -1,4 +1,4 @@
-package Alura;
+package Prática;
 
 import java.util.Scanner;
 
@@ -65,6 +65,6 @@ public static void main(String[] args) {
             nota = leitura.nextDouble();
             media += nota;
       }
-    System.out.println("Média final das notas: " + media);
+    System.out.println("Média final das notas: " + media / 4);
   }
 }

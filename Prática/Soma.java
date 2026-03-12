@@ -1,4 +1,5 @@
-package Alura;
+package Prática;
+
 // Crie um programa que realize a média de duas notas decimais e exiba o resultado. OK
 
 // Declare uma variável do tipo double precoOriginal. Atribua um valor em reais a essa variável, 
@@ -7,12 +8,10 @@ package Alura;
 // aplique-o ao preço original e imprima o novo preço com desconto. OK
 
 public class Soma {
-    
-        double x = 8.7;
-        double y = 8.7;
-          double total = x + y;
-
-        double precoOriginal = 50.00;
-        double desconto = 20;
-          double precoFinal = precoOriginal - ((50 * 20) / 100);
+    double x = 8.7;
+    double y = 8.7;
+    double total = x + y;
+      double precoOriginal = 50.00;
+      double desconto = 20;
+        double precoFinal = precoOriginal - ((50 * 20) / 100);
 }
