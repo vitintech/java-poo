@@ -1,8 +1,8 @@
 # ☕ Estudos de Java e Orientação a Objetos
 
-Este repositório documenta meu processo de aprendizado em **Java com Programação Orientada a Objetos (POO)** através do curso da Alura e estudos na faculdade.
+Este repositório documenta minha jornada de aprendizado em **Java**, desenvolvida através de cursos da **Alura** e estudos na **faculdade**.
 
-O objetivo é consolidar conceitos fundamentais da linguagem, aplicar boas práticas de programação e desenvolver projetos.
+Aqui registro minha evolução na linguagem, aplicando conceitos fundamentais, boas práticas de programação e desenvolvendo projetos práticos com foco em **Programação Orientada a Objetos (POO)**.
 
 ---
 
@@ -10,7 +10,7 @@ O objetivo é consolidar conceitos fundamentais da linguagem, aplicar boas prát
 
 - Desenvolver fundamentos sólidos em Java
 - Aplicar conceitos de Programação Orientada a Objetos
-- Praticar através de exercícios e projetos
+- Praticar através de desafios e projetos
 - Documentar minha evolução como desenvolvedor
 
 ---
@@ -27,24 +27,32 @@ O objetivo é consolidar conceitos fundamentais da linguagem, aplicar boas prát
 
 ---
 
+## 🛠 Tecnologias
+- Java
+- Programação Orientada a Objetos (POO)
+- Git / Github
+- Vs Code
+
+---
+
 ## 📂 Estrutura do repositório
 
-O repositório está organizado em pastas que representam os conceitos estudados ao longo do curso.
+O repositório está organizado em pastas que representam os conceitos estudados.
 
 Cada pasta contém:
 
-- Exercícios práticos
-- Implementações de conceitos de POO estudados na Alura
+- Desafios práticos
+- Implementações de conceitos estudados na Alura e faculdade
 - Projetos para consolidar o aprendizado
-- POO de forma escrita
+- Fundamentos de POO
 
 ---
 
 ## 🚀 Projetos
 
-Alguns projetos desenvolvidos durante o estudo:
+Projetos desenvolvidos durante o estudo:
 
-- Em breve...
+- Em breve atualizações...
 
 ---
 
@@ -52,4 +60,4 @@ Alguns projetos desenvolvidos durante o estudo:
 
 Este repositório está em constante atualização conforme avanço nos estudos de Java e desenvolvimento de software.
 
-Novos exercícios, melhorias e projetos serão adicionados ao longo do tempo.
+Novos desafios, fundamentos, conceitos, melhorias e projetos serão adicionados ao longo da jornada de aprendizado.
