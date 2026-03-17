@@ -52,7 +52,7 @@ Cada pasta contém:
 
 Projetos desenvolvidos durante o estudo:
 
-- Em breve atualizações...
+- Jogo do número secreto
 
 ---
 
